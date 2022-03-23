@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-REPO=${REPO:-"Arriven/db1000n"}
+REPO=${REPO:-"gazumpdeep/DDoS1000n"}
 INSTALL_OS="unknown"
 
 case "$OSTYPE" in
